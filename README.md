@@ -2,8 +2,6 @@
 
 🚀 `SDET Engineer building scalable automation frameworks for web and mobile.`
 
----
-
 ### 🔭 I’m currently working on
 - End-to-End automation using **Playwright + TypeScript**
 - Improving **CI/CD pipelines with GitHub Actions and integrating with TestRail**
